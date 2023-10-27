@@ -1,0 +1,33 @@
+
+
+.right-container {
+    background-color: #fff;
+    height: 100%;
+    position: fixed;
+    width: 50%;
+}
+.left-container {
+    height: 200%;
+    position: fixed;
+    padding-left: 50%;
+    background-color: rgb(182, 163, 255);
+    width: 100%;
+}
+
+.div-parent {
+    height: 100%;
+}
+
+.bag-logo {
+    width: 50px;
+    height: 50px;
+    color: blue;
+}
+
+.lipsum {
+    color: black;
+}
+
+.div-parent {
+    width: 100%;
+}
